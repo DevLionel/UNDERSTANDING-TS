@@ -1,0 +1,23 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "description": "Learning typescript",
+  "main": "app.js",
+  "dependencies": {
+    "global": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevLionel/UNDERSTANDING-TS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevLionel/UNDERSTANDING-TS/issues"
+  },
+  "homepage": "https://github.com/DevLionel/UNDERSTANDING-TS#readme"
+}
